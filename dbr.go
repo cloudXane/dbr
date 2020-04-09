@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/nathanjordan/dbr/v2/dialect"
+	"github.com/cloudXane/dbr/v2/dialect"
 )
 
 // Open creates a Connection.

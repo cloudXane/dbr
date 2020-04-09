@@ -5,7 +5,7 @@ import (
 
 	"github.com/lib/pq"
 
-	"github.com/nathanjordan/dbr/v2/dialect"
+	"github.com/cloudXane/dbr/v2/dialect"
 	"github.com/stretchr/testify/require"
 )
 
