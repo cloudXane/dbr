@@ -1,4 +1,4 @@
-module github.com/nathanjordan/dbr/v2
+module github.com/cloudXane/dbr/v2
 
 go 1.12
 
